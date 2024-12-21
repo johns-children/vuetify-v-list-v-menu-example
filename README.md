@@ -1,42 +1,11 @@
-# Nuxt 3 Minimal Starter
+# Vuetify メニューボタン付きリストのサンプル
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Vuetify メニューボタン付きリストのサンプルです。以下の画像の画像のような UI を `v-list`、`v-menu` を使って実装しています。
 
-## Setup
+![vuetify-v-list-v-menu-example](https://github.com/user-attachments/assets/5c20ca8a-ed6e-4591-bd30-0e8c6d35d144)
 
-Make sure to install the dependencies:
+## 技術
 
-```bash
-# yarn
-yarn install
-
-# npm
-npm install
-
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+- Nuxt3
+- Vue3
+- Vuetify
